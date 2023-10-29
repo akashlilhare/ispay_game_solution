@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644950701755",
+    "project_id": "ispy-game-1d2f7",
+    "storage_bucket": "ispy-game-1d2f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644950701755:android:b88588630b2a7afd989b9e",
+        "android_client_info": {
+          "package_name": "com.example.ispy_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpfeX9Jhcx0fKXQ5u_7nxkSIUmzRAPai4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
